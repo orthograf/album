@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">Album</lang>
+        <lang name="russian">Альбом</lang>
+    </name>
+    <author>
+        <lang name="default">andreyv</lang>
+    </author>
+    <homepage>http://orthograf.ru</homepage>
+    <version>1.0.0</version>
+    <requires>
+        <altocms>1.x</altocms>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">Albums of users</lang>
+        <lang name="russian">Альбомы пользователей</lang>
+    </description>
+</plugin>
