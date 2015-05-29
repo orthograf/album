@@ -5,12 +5,12 @@
         <lang name="russian">Альбом</lang>
     </name>
     <author>
-        <lang name="default">andreyv</lang>
+        <lang name="default">orthograf</lang>
     </author>
-    <homepage>http://orthograf.ru</homepage>
+    <homepage>orthograf.ru</homepage>
     <version>1.0.0</version>
     <requires>
-        <altocms>1.x</altocms>
+        <alto>1.x</alto>
         <plugins>
         </plugins>
     </requires>
