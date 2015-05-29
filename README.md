@@ -1,3 +1,3 @@
 Album
 ====
-Plagin Album
+Plugin Album
